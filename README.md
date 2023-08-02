@@ -1,4 +1,4 @@
-# App-PortfolioTraker
+# siTracker
 Application on C++ for tracking a crypto portfolio. User uploads his/her Gate.io trading history and starts tracking!
 
 - FilePro: old demo project
